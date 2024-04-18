@@ -15,7 +15,7 @@ This is a simple implementation of the classic word game Hangman. The player nee
 ## Setup
 1. Clone this repository.
 2. Make sure you have Python installed on your system.
-3. Navigate to the directory where you cloned the repo and run `python hangman.py` to start the game.
+3. Navigate to the directory where you cloned the repo and run `python game.py` to start the game.
 
 ## Features
 - Random word selection from a list.
